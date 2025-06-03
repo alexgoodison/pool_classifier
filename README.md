@@ -35,6 +35,8 @@ pool_classifier/
 - Process images using `get_images.py`
 - Note: The full image dataset is not included in the repository due to size constraints
 
+![Example of processed satellite image with property boundary mask](assets/examples/6176017003.jpg)
+
 ### Step 3: Dataset Preparation
 
 - Manually curated dataset of 400 images:
