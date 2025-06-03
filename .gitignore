@@ -7,8 +7,6 @@ __pycache__/
 
 
 # Custom
-test/
-test.py
 tmp/
 .cursor/
 tmp/
